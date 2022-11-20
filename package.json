@@ -1,0 +1,31 @@
+{
+  "name": "particles_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "build": "webpack",
+    "start": "npm run build && webpack-dev-server --port=8000",
+    "deploy": "firebase deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/godjam/particles_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/godjam/particles_test/issues"
+  },
+  "homepage": "https://github.com/godjam/particles_test#readme",
+  "devDependencies": {
+    "raw-loader": "^0.5.1",
+    "webpack": "^3.4.1",
+    "webpack-dev-server": "^2.11.0"
+  },
+  "dependencies": {
+    "firebase": "^9.14.0",
+    "phaser": "^3.60.0-beta.13",
+    "phaser3-project-template": "^1.0.9"
+  }
+}
