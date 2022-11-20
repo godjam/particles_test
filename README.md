@@ -1,5 +1,5 @@
 # particles_test
-Test Initinity Dungeon - Particules
+Test Infinity Dungeon - Particules
 
 ## Plan
 1. Besoins
@@ -55,13 +55,13 @@ background anim:
 https://phaser.io/examples/v3/view/game-objects/particle-emitter/stepped-angle
 
 
-### autres sprites
+### Autres sprites
 images (zombie et squelette):
  - https://opengameart.org/content/8x8-rogue-like-charenemiestiles
  - https://opengameart.org/content/8x8-enemies-and-character
  - trouver sprites pour les effets
 
-### camera:
+### Camera:
 https://github.com/photonstorm/phaser-examples/blob/master/examples/camera/camera%20flash.js
 
 ### Autres effets:
